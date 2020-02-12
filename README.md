@@ -1,3 +1,19 @@
+#How to Setup
+
+[1]Using given command install ngmodule
+   -->npm install
+
+[2]Go inside poject folder and run below command. 
+   -->ng build --prod
+
+[3]after Successfully creating dist folder run below command. 
+   -->http-server -p 8080 -c-1 dist/<project-name>
+
+[4]If you have do chenges so you follow 2 and 3 step again.
+
+
+		
+
 # Serviceworker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.25.
