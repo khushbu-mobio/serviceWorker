@@ -1,4 +1,4 @@
-#How to Setup
+# How to Setup
 
 [1]Using given command install ngmodule
    -->npm install
@@ -7,7 +7,7 @@
    -->ng build --prod
 
 [3]after Successfully creating dist folder run below command. 
-   -->http-server -p 8080 -c-1 dist/<project-name>
+   -->http-server -p 8080 -c-1 dist/serviceworker
 
 [4]If you have do chenges so you follow 2 and 3 step again.
 
